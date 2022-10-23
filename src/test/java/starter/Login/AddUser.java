@@ -15,7 +15,7 @@ public class AddUser {
 
     public JSONObject validUsernameAndPassword() {
         JSONObject body = new JSONObject();
-        body.put("userName", "orz");
+        body.put("userName", "oo");
         body.put("password", "AkjHg2397><.,fe!");
         return body;
     }
