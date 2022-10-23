@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: AddUser
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.335 s <<< FAILURE! - in AddUser
-AddUser.Sign in with valid username and password (authorized)  Time elapsed: 6.324 s  <<< ERROR!
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 12.045 s <<< FAILURE! - in AddUser
+AddUser.Sign in with valid username and password (authorized)  Time elapsed: 7.953 s  <<< ERROR!
 net.serenitybdd.core.exceptions.SerenityManagedException: 
 1 expectation failed.
 Expected status code <201> but was <406>.

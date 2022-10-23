@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="AddUser" skipped="0" tests="4" time="7.84" timestamp="2022-10-23 02:23:36"><testcase name="Sign in with valid username and password (authorized)"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;406&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="AddUser" skipped="0" tests="4" time="11.26" timestamp="2022-10-23 03:22:51"><testcase name="Sign in with valid username and password (authorized)"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;406&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
 Expected status code &lt;201&gt; but was &lt;406&gt;.
 </failure><system-err>1 expectation failed.
 Expected status code &lt;201&gt; but was &lt;406&gt;.
