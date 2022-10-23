@@ -26,7 +26,7 @@ public class AuthorizedSteps {
 
     @When("I send request post with invalid username and password")
     public void iSendRequestPostWithInvalidUsernameAndPassword() {
-        authorized.reqestInvalid();
+        authorized.requestInvalid();
     }
 
 
@@ -38,5 +38,9 @@ public class AuthorizedSteps {
     @Then("I get error code {int}")
     public void iGotErrorCode(int code) {
         authorized.errorCode(code);
+    }
+
+    @When("I send request post with null username and password")
+    public void iSendRequestPostWithNullUsernameAndPassword() {
     }
 }
