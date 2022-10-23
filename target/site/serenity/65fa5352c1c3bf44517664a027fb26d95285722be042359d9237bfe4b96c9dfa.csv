@@ -1,2 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Authorized","Sign in with valid username and password","SUCCESS","2022-10-23T15:22:51.9118249+07:00[Asia/Jakarta]","0.0","7.12"
+"Authorized","Sign in with valid username and password","SUCCESS","2022-10-23T15:37:45.68189+07:00[Asia/Jakarta]","0.0","6.66"
+"Authorized","Sign in with invalid username and password","SUCCESS","2022-10-23T15:37:52.3662861+07:00[Asia/Jakarta]","0.0","2.72"
+"Authorized","Sign in with null username and password","SUCCESS","2022-10-23T15:37:55.1266867+07:00[Asia/Jakarta]","0.0","0.07"

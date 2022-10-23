@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"AddUser","Sign in with null username and password (authorized)","SUCCESS","2022-10-23T15:22:59.2592145+07:00[Asia/Jakarta]","0.0","1.15"
-"AddUser","Sign in with username and invalid password (authorized)","SUCCESS","2022-10-23T15:23:00.4163578+07:00[Asia/Jakarta]","0.0","2.74"
-"AddUser","Sign in with existing username and password (authorized)","SUCCESS","2022-10-23T15:23:03.1762747+07:00[Asia/Jakarta]","0.0","0.05"
+"AddUser","Sign in with null username and password (authorized)","SUCCESS","2022-10-23T15:37:52.5813062+07:00[Asia/Jakarta]","0.0","2.5"
+"AddUser","Sign in with username and invalid password (authorized)","SUCCESS","2022-10-23T15:37:55.1007239+07:00[Asia/Jakarta]","0.0","1.19"
+"AddUser","Sign in with existing username and password (authorized)","SUCCESS","2022-10-23T15:37:56.2996615+07:00[Asia/Jakarta]","0.0","0.02"

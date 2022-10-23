@@ -27,15 +27,28 @@ public class Authorized {
         return body;
     }
 
+    public JSONObject nullAccount() {
+        JSONObject body = new JSONObject();
+        body.put("userName", "");
+        body.put("password", "");
+        return body;
+    }
+
     public void requestValid() {
         given().header("Content-Type", "application/json")
                 .body(validAccount().toJSONString());
         when().post(url);
     }
 
-    public void reqestInvalid() {
+    public void requestInvalid() {
         given().header("Content-Type", "application/json")
                 .body(invalidAccount().toJSONString());
+        when().post(url);
+    }
+
+    public void requestNull() {
+        given().header("Content-Type", "application/json")
+                .body(nullAccount().toJSONString());
         when().post(url);
     }
 
