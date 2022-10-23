@@ -11,4 +11,4 @@ Feature: Authorized
   Scenario: Sign in with invalid username and password
     Given I set authorization url
     When I send request post with invalid username and password
-    Then I get error not found
+    Then I get error code 404

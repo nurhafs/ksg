@@ -1,7 +1,7 @@
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\CucumberTestSuite.java
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\stepdefinitions\Login\GenerateTokenSteps.java
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\stepdefinitions\Login\AuthorizedSteps.java
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\Login\Authorized.java
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\Login\GenerateToken.java
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\stepdefinitions\Login\AddUserSteps.java
-C:\Users\ASUS\Desktop\stupen\repo\19_RESTful API Testing with Rest Assured\Praktikum\tugasREST\src\test\java\starter\Login\AddUser.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\Login\GenerateToken.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\stepdefinitions\Login\GenerateTokenSteps.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\stepdefinitions\Login\AuthorizedSteps.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\CucumberTestSuite.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\Login\AddUser.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\Login\Authorized.java
+C:\Users\ASUS\Desktop\stupen\cicdrepo\tugasREST\src\test\java\starter\stepdefinitions\Login\AddUserSteps.java

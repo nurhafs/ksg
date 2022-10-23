@@ -34,4 +34,9 @@ public class AuthorizedSteps {
     public void iGetErrorNotFound() {
         authorized.errorNotFound();
     }
+
+    @Then("I get error code {int}")
+    public void iGotErrorCode(int code) {
+        authorized.errorCode(code);
+    }
 }

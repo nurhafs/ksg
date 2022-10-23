@@ -49,4 +49,8 @@ public class Authorized {
         then().body("message", equalTo("User not found!"));
 
     }
+
+    public void errorCode(int code) {
+        then().statusCode(code);
+    }
 }
