@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Authorized" skipped="0" tests="2" time="6.29" timestamp="2022-09-30 04:51:44"><testcase name="Sign in with valid username and password"/><testcase name="Sign in with invalid username and password"/></testsuite>

@@ -1,0 +1,7 @@
+starter\CucumberTestSuite.class
+starter\Login\AddUser.class
+starter\stepdefinitions\Login\AuthorizedSteps.class
+starter\stepdefinitions\Login\AddUserSteps.class
+starter\Login\Authorized.class
+starter\Login\GenerateToken.class
+starter\stepdefinitions\Login\GenerateTokenSteps.class
